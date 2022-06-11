@@ -1,0 +1,26 @@
+segment_sources:
+  IBCD29834:
+    type: origin_type
+    relation: translation
+    language: en
+  ICAFF22C9:
+    type: origin_type
+    relation: translation
+    language: zh
+  IC1967B81:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  360b93ffc0764e368dfbbebdc6cf5675:
+    IBCD29834: f1d3f24df55d4152a7a8932dddc94e8a
+    ICAFF22C9: 38a89468b99e4fd5a9cb27df018cd882
+    IC1967B81: 06995cd491e143698aea85ca93c63ac9
+  306e4b1b05b9434598a7fc22ce7cd037:
+    IBCD29834: 3a34cdd404a947bd93911ebaf73037fe
+    ICAFF22C9: 4f8689eecb574d52974bb790674980f5
+    IC1967B81: 6f105d2673974157b5540f0bfa872f51
+  ba39c51cbbbb48af8ee3a78f565254f1:
+    IBCD29834: 79840b1c2ec74e7f99540f56c698cb0a
+    ICAFF22C9: 4e0e2954d3fb47678e342d8526375bc4
+    IC1967B81: fde491fafb8046d0ad42e218a7a0580d
